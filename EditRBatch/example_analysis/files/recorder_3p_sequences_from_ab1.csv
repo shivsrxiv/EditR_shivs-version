@@ -1,0 +1,4 @@
+"Sample.Name","Sample.File","Control.File","sgRNA","sgRNA.in.same.orientation.as.sample.file","WT.base..e.g...A..","Edited.base..e.g...G..or..G.C..","sample.and.control.file.in.same.orientation","Control.file.is..fasta","P.value"
+"P28347_RRM_4x_1_1007_G08_052.ab1","P28347_RRM_4x_1_1007_G08_052.ab1","DKp1017 - pCS2_EYFP_3UTR_AC-linear_Empty-Recorder.dna","TCNAATCNAATCNAATCNAATCNAATCTAATCTAA",NA,"T","C",NA,NA,NA
+"P28347_RRM_4x_2_1007_H08_050.ab1","P28347_RRM_4x_2_1007_H08_050.ab1","DKp1017 - pCS2_EYFP_3UTR_AC-linear_Empty-Recorder.dna","GTCNAATCNAATCNAATCNAATCTAATCTAATCTA",NA,"T","C",NA,NA,NA
+"P28347_RRM_4x_3_1007_A09_079.ab1","P28347_RRM_4x_3_1007_A09_079.ab1","DKp1017 - pCS2_EYFP_3UTR_AC-linear_Empty-Recorder.dna","TCNAATCNAATCNAATCNAATCTAATCTAATCTAA",NA,"T","C",NA,NA,NA
